@@ -1,0 +1,13 @@
+Frontend (Structure and Design)
+*Html
+*CSS
+
+Backend (Assign variables, functions to the frontend)
+*nodejs
+features: datastorage, admin dashboard, API
+
+Server/Database (Stores data, order, inventory, stock, etc)
+*MySql
+
+API (Communication between frontend and Backend)
+*Rest API
